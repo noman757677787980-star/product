@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Noman Javed",
+        "roll_number": 101,
+        "marks": 85,
+        "contact": "03001234567",
+        "city": "Lahore"
+    },
+    {
+        "id": 2,
+        "name": "ali",
+        "roll_number": 33,
+        "marks": 344,
+        "contact": "lahore",
+        "city": "lahore"
+    }
+]
